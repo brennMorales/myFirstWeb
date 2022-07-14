@@ -19,10 +19,10 @@
 
 Vamos a comenzar con nuestro primer reto en el cual pondremos en práctica todas tus habilidades para maquetar y haras tu primera landing.
 
--Crea un CSS folder y dentro un archivo stylr.css
--Crea un image folder
--Crea tu archivo HTML
--Enlaza el css a tu archivo html
+- Crea un CSS folder y dentro un archivo stylr.css
+- Crea un image folder
+- Crea tu archivo HTML
+- Enlaza el css a tu archivo html
 
 ## Herramientas
 
