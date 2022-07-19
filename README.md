@@ -26,36 +26,12 @@ Vamos a comenzar con nuestro primer reto en el cual pondremos en práctica todas
 
 ## Herramientas
 
--div
-
-https://developer.mozilla.org/es/docs/Web/HTML/Element/div
-
--modelo de caja
-
-https://devcode.la/tutoriales/modelo-caja-css/
-
--display property
-
-https://dev.to/lupitacode/la-propiedad-display-en-css-1b6a
-
--posicion css
-
-https://developer.mozilla.org/es/docs/Web/CSS/position
-
--font-family
-
-https://developer.mozilla.org/es/docs/Web/CSS/font-family
-
--font-size
-
-https://developer.mozilla.org/es/docs/Web/CSS/font-size
-
--float
-
-https://developer.mozilla.org/es/docs/Web/CSS/float
-
--clear
-
-https://developer.mozilla.org/es/docs/Web/CSS/clear
+- [Div](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
+- [Modelo de caja](https://devcode.la/tutoriales/modelo-caja-css/)
+- [Display property](https://developer.mozilla.org/es/docs/Web/CSS/position)
+- [Font-family](https://developer.mozilla.org/es/docs/Web/CSS/font-family)
+- [Font-size](https://developer.mozilla.org/es/docs/Web/CSS/font-size)
+- [Float](https://developer.mozilla.org/es/docs/Web/CSS/float)
+- [Clear](https://developer.mozilla.org/es/docs/Web/CSS/clear)
 
 ## Este es tu primer reto
